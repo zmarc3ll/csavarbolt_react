@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+body {
+  text-align: center;
+  margin: auto;
+  display: block;
+  background-color: beige;
+}
+
+ul,li {
+  margin: auto;
+  display: block;
+}
+
+button {
+  margin-top: 30px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
